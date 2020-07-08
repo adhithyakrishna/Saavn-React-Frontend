@@ -1,2 +1,2 @@
 # Saavn-React-Frontend
-Frontend music player build for react
+Frontend music player built for React
